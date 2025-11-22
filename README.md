@@ -1,7 +1,7 @@
 ![Texto Alternativo](header.png)
 
 ## 🎯 Interesses
-Ampliar conhecimentos de **programação** e **ecommerce** para aplicar em processos que engajem as vendas.
+Ampliar conhecimentos de **programação** e **ecommerce** para aplicar em processos que engajem nas vendas.
 
 ## 📚 O que estou aprendendo
 - Git e GitHub  
