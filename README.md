@@ -4,7 +4,7 @@
 Expand knowledge of **programming** and **e-commerce** to apply to processes that engage in sales.
 
 ## 📚 What I am learning
-- Git and GitHub  
+- React
 - SEO  
 - English  
 
