@@ -1,4 +1,4 @@
-#Hello, i'm Maísa
+# Hello, i'm Maísa
 
 ## 🎯 Interests
 Expand knowledge of **programming** and **e-commerce** to apply to processes that engage in sales.
