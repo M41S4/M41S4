@@ -20,5 +20,6 @@ Expand knowledge of **programming** and **e-commerce** to apply to processes tha
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![English](https://img.shields.io/badge/Ingl%C3%AAs-%230081CB.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 
-![Shell Script](https://shields.io)
+[![Made with Bash](https://shields.io)](https://www.gnu.org/software/bash/)
+
 ---
